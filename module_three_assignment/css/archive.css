@@ -1,0 +1,38 @@
+#navigation-header {
+    background-color: #808080;
+    border-radius: 0;
+    border: 2px solid black;
+}
+
+hr {
+    width:100%;
+    padding:0;
+    margin: 2px;
+    border: 2px solid black;
+}
+
+#my-button-category {
+    text-align: center;
+}
+
+#food-title { 
+    background-color:grey;
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 1.5em;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+#food-description {
+    font-size:0.7em;
+    font-weight:bold;
+    font-weight:normal
+}
+
+#main-heading {
+    font-weight: bold;
+    text-align: center;
+}
